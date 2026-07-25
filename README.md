@@ -83,9 +83,14 @@ From healthcare AI to GitOps platforms and enterprise automation, I enjoy buildi
 
 ## SasiSystems
 
-I run **SasiSystems**, an organization on GitHub where I build and ship AI-powered products — including MedScan AI and RAG Chatbot.
-
 ⭐ **Org:** https://github.com/SasiSystems
+
+### 📌 Pinned Repositories
+
+- 🩺 [medscan-ai](https://github.com/SasiSystems/medscan-ai)
+- 🤝 [buildybuddy](https://github.com/SasiSystems/buildybuddy)
+- 💬 [rag-chatbot](https://github.com/SasiSystems/rag-chatbot)
+- 🌐 [Portfolio](https://github.com/SasiSystems/Portfolio)
 
 ---
 
@@ -131,15 +136,31 @@ A production-grade **GitOps Platform & Infrastructure-as-Code Engine** for manag
 
 ## 🩺 MedScan AI
 
-> **Tech Stack:** AI-powered medical imaging
+> **Tech Stack:** Python • AI/ML • Computer Vision • Medical Imaging
 
-AI-powered medical imaging platform for disease detection, diagnostics, and clinical decision support.
+An AI-powered medical imaging platform built to assist disease detection, diagnostics, and clinical decision-making from scans and medical data.
+
+### Features
+
+- 🩻 AI-assisted analysis of medical imaging data
+- 🧠 Disease detection and diagnostic support
+- 📊 Clinical decision-support workflows
+- 🏥 Built for real-world healthcare use cases
 
 ---
 
 ## 💬 RAG Chatbot
 
-Retrieval-Augmented Generation chatbot project.
+> **Tech Stack:** Python • LangChain • LLMs • Vector Databases • Embeddings
+
+A Retrieval-Augmented Generation chatbot that grounds LLM responses in external knowledge sources for more accurate, context-aware answers.
+
+### Features
+
+- 🔍 Retrieval-augmented responses using vector search
+- 🧠 LLM-powered conversational interface
+- 📚 Context-grounded answers from custom knowledge bases
+- ⚡ Reduced hallucination through grounded retrieval
 
 ---
 
@@ -188,43 +209,27 @@ Explore all my repositories here:
 
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ## 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 
-<br/><br/>
-
-**Languages**
+<br/>
 
 Python • JavaScript • TypeScript • SQL
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ## 🤖 AI / Machine Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-<br/><br/>
+<br/>
 
-TensorFlow • PyTorch
-
-Scikit-learn • DeepEval
-
-Pandas • NumPy
-
-Matplotlib • Seaborn
-
-Computer Vision
-
-Deep Learning
-
-LLM Evaluation
-
-Data Analysis
+TensorFlow • PyTorch • Scikit-learn • DeepEval • Pandas • NumPy • Matplotlib • Seaborn • Computer Vision • Deep Learning • LLM Evaluation • Data Analysis
 
 </td>
 
@@ -232,55 +237,27 @@ Data Analysis
 
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ## 🌐 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs" />
 
-<br/><br/>
+<br/>
 
-Next.js
-
-React
-
-TypeScript
-
-Tailwind CSS
-
-Three.js
-
-React Three Fiber
-
-GSAP
-
-Responsive UI
+Next.js • React • TypeScript • Tailwind CSS • Three.js • React Three Fiber • GSAP • Responsive UI
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ## ⚙️ Backend Development
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 
-<br/><br/>
+<br/>
 
-FastAPI
-
-REST APIs
-
-Python Backend
-
-API Development
-
-Jinja2
-
-GitHub API
-
-Plugin Architecture
-
-CLI Development
+FastAPI • REST APIs • Python Backend • API Development • Jinja2 • GitHub API • Plugin Architecture • CLI Development
 
 </td>
 
@@ -288,51 +265,27 @@ CLI Development
 
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ## 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
 
-<br/><br/>
+<br/>
 
-PostgreSQL
-
-MySQL
-
-MongoDB
-
-Prisma ORM
-
-SQL
-
-RDBMS
+PostgreSQL • MySQL • MongoDB • Prisma ORM • SQL • RDBMS
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ## ☁️ DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode" />
 
-<br/><br/>
+<br/>
 
-Git
-
-GitHub
-
-GitHub Actions
-
-Docker
-
-VS Code
-
-Power BI
-
-Tableau
-
-Automation
+Git • GitHub • GitHub Actions • Docker • VS Code • Power BI • Tableau • Automation
 
 </td>
 
@@ -362,6 +315,8 @@ Automation
 # 📊 GitHub Statistics
 
 <div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sasidhar-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sasidhar-sys&theme=tokyonight&hide_border=true" />
 
