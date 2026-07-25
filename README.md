@@ -79,7 +79,34 @@ From healthcare AI to GitOps platforms and enterprise automation, I enjoy buildi
 
 ---
 
+# 🏢 Organization
+
+## SasiSystems
+
+I run **SasiSystems**, an organization on GitHub where I build and ship AI-powered products — including MedScan AI and RAG Chatbot.
+
+⭐ **Org:** https://github.com/SasiSystems
+
+---
+
 # 🚀 Featured Projects
+
+## 🤖 Project NOVA *(In Progress)*
+
+> **Tech Stack:** Python • AI Agents • LLMs • Automation • Voice AI
+
+An advanced AI assistant inspired by next-generation virtual assistants, featuring conversational AI, intelligent automation, memory, modular architecture, and productivity tools.
+
+### Features
+
+- 🧠 Intelligent conversational AI
+- 🎙️ Voice interaction
+- 💻 System automation
+- ⚙️ Multi-agent architecture
+- 🗂️ Long-term memory
+- 🚀 Extensible plugin system
+
+---
 
 ## 🏆 Organization Manager v5.0 *(2026)*
 
@@ -102,20 +129,17 @@ A production-grade **GitOps Platform & Infrastructure-as-Code Engine** for manag
 
 ---
 
-## 🤖 Project NOVA *(In Progress)*
+## 🩺 MedScan AI
 
-> **Tech Stack:** Python • AI Agents • LLMs • Automation • Voice AI
+> **Tech Stack:** AI-powered medical imaging
 
-An advanced AI assistant inspired by next-generation virtual assistants, featuring conversational AI, intelligent automation, memory, modular architecture, and productivity tools.
+AI-powered medical imaging platform for disease detection, diagnostics, and clinical decision support.
 
-### Features
+---
 
-- 🧠 Intelligent conversational AI
-- 🎙️ Voice interaction
-- 💻 System automation
-- ⚙️ Multi-agent architecture
-- 🗂️ Long-term memory
-- 🚀 Extensible plugin system
+## 💬 RAG Chatbot
+
+Retrieval-Augmented Generation chatbot project.
 
 ---
 
@@ -339,8 +363,6 @@ Automation
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sasidhar-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sasidhar-sys&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -478,7 +500,7 @@ while(alive){
 <br/>
 
 <a href="https://pin.it/2LLjzphF3">
-<img src="https://i.pinimg.com/736x/9c/eb/d9/9cebd99ff7afc9a352290224fa29807b.jpg" alt="footer banner" width="100%"/>
+<img src="https://i.pinimg.com/originals/e2/85/66/e285661a023fb83c8d7f975980422c22.gif" alt="footer banner" width="100%"/>
 </a>
 
 </div>
