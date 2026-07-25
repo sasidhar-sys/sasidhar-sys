@@ -316,7 +316,7 @@ Git • GitHub • GitHub Actions • Docker • VS Code • Power BI • Tablea
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sasidhar-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=sasidhar-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sasidhar-sys&theme=tokyonight&hide_border=true" />
 
