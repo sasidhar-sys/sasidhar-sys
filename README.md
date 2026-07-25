@@ -339,6 +339,8 @@ Automation
 
 <div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sasidhar-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sasidhar-sys&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -476,7 +478,7 @@ while(alive){
 <br/>
 
 <a href="https://pin.it/2LLjzphF3">
-<img src="https://i.pinimg.com/736x/9c/eb/d9/9cebd99ff7afc9a352290224fa29807b.jpg" alt="footer banner" width="600"/>
+<img src="https://i.pinimg.com/736x/9c/eb/d9/9cebd99ff7afc9a352290224fa29807b.jpg" alt="footer banner" width="100%"/>
 </a>
 
 </div>
