@@ -77,7 +77,9 @@ From healthcare AI to GitOps platforms and enterprise automation, I enjoy buildi
 - 📈 Worked on AI evaluation dashboards and analytics
 - 💬 Developed conversational AI monitoring pipelines
 
----# 🚀 Featured Projects
+---
+
+# 🚀 Featured Projects
 
 ## 🏆 Organization Manager v5.0 *(2026)*
 
@@ -97,24 +99,6 @@ A production-grade **GitOps Platform & Infrastructure-as-Code Engine** for manag
 - ⚙️ GitHub Actions workflow generation
 - 🧪 15/15 automated Pytest suite
 - 📝 Structured logging and CI/CD pipeline
-
----
-
-## 🚀 FutureForge AI *(In Progress)*
-
-> **Tech Stack:** Next.js • FastAPI • PostgreSQL • Prisma • Python • AI
-
-An enterprise-grade AI platform focused on intelligent workflow automation, analytics, AI-powered dashboards, scalable backend services, and business productivity.
-
-### Features
-
-- 🤖 AI-powered workflow automation
-- 📊 Enterprise dashboards
-- ⚡ FastAPI backend
-- 🗄️ PostgreSQL database
-- 🔐 Authentication & role management
-- 📈 Business analytics
-- ☁️ Scalable architecture
 
 ---
 
@@ -152,18 +136,6 @@ A premium cinematic portfolio website with immersive WebGL experiences, GPU part
 
 ---
 
-## 🫁 Lung Cancer Detection *(May – Jun 2025)*
-
-> **Tech Stack:** EfficientNet CNN • PyTorch • Grad-CAM • Data Augmentation
-
-- Collected and cleaned lung X-ray datasets
-- Applied advanced data augmentation techniques
-- Trained EfficientNet CNN achieving **91%+ accuracy**
-- Integrated Grad-CAM visualizations for explainable AI
-- Built probability-based diagnostic predictions
-
----
-
 ## 🔬 Esophageal Cancer Detection *(Jan – Apr 2026)*
 
 > **Tech Stack:** EfficientNet CNN • TensorFlow • Medical Imaging • Deep Learning
@@ -182,7 +154,9 @@ Explore all my repositories here:
 
 ⭐ **GitHub:** https://github.com/sasidhar-sys
 
----# 🛠️ Skills & Technologies
+---
+
+# 🛠️ Skills & Technologies
 
 <p align="center">
 
@@ -365,27 +339,17 @@ Automation
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sasidhar-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sasidhar-sys&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasidhar-sys&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 📈 GitHub Activity Graph
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sasidhar-sys&theme=tokyo-night&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/sasidhar-sys/sasidhar-sys/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
@@ -447,7 +411,9 @@ Automation
 - 📊 Data Engineering
 - 🔬 Computer Vision
 
----# 🤝 Let's Connect
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -509,6 +475,8 @@ while(alive){
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<a href="https://pin.it/2LLjzphF3">
+<img src="https://i.pinimg.com/736x/9c/eb/d9/9cebd99ff7afc9a352290224fa29807b.jpg" alt="footer banner" width="600"/>
+</a>
 
 </div>
